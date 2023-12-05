@@ -1,1 +1,1 @@
-# referenda.pl publick html
+# referenda.pl public html
